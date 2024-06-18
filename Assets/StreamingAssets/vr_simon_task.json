@@ -1,0 +1,7 @@
+{
+	"n_baseline_trials": 4,
+	"n_practice_trials": 16,
+	"n_experimental_blocks": 8,
+	"n_experimental_trials": 48,
+	"counterbalance": 0
+}

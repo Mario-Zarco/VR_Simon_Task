@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.unityvrflankertask.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\CMND Lab GitHub\\VR-Simon-Task-UXF2\\[Unity] VR Simon Task\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "[Unity] VR Flanker Task [Testing]"
+        }
+      }
+    }
+  ]
+}
